@@ -1,0 +1,1 @@
+This code implements a Variational Autoencoder (VAE) to generate MNIST digit images, combining Reconstruction Loss (RL) and KL divergence regularization to learn a structured latent space. It periodically generates visual samples from random noise in the latent space (latent_dim).
